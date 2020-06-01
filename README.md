@@ -5,5 +5,7 @@ On the CfWheels website there is a Beginner Tutorial on  how to create a Hello D
 
 Some programmers just want to download a sample / example and start by modifing a working model.  Now that I have this example working in my environment, I decided to upload it for other to use.
 
+Some of the "Beginner-Tutorial-Hello-Database" guide has been incorporated into the code as comments. These comments helped me to learn / understand how the routes and form submits "flow" thru the Controller. 
+   
 Thanks
 Dan G.
