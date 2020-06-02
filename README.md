@@ -9,3 +9,5 @@ Some of the "Beginner-Tutorial-Hello-Database" guide has been incorporated into 
    
 Thanks
 Dan G.
+
+Last Updated: 6/1/2020
